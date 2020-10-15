@@ -7,6 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
+
 <h1>회원가입 페이지</h1>
 	<form name = "form1" method="post" action="joinAction.jsp">
 		<p>아이디 : <input type="text" name = "id">
