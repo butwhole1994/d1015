@@ -103,10 +103,10 @@
 </head>
 <body>
 <ul id="menu">
-	<li><a href="join1.jsp">등록</a></li>
-	<li><a href="update1.jsp">수정</a></li>
-	<li><a href="delete1.jsp">삭제</a></li>
-	<li><a href="DB1.jsp">조회</a></li>
+	<li><a href="join.jsp">등록</a></li>
+	<li><a href="update.jsp">수정</a></li>
+	<li><a href="delete.jsp">삭제</a></li>
+	<li><a href="DB.jsp">조회</a></li>
 </ul>
 </body>
 </html>

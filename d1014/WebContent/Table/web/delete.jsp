@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Update</title>
+<title>Index</title>
 
 </head>
 <body>
@@ -14,7 +14,7 @@
 		</tr>
 		
 		<tr id="content">
-			<td><jsp:include page="update.jsp"></jsp:include></td>
+			<td><jsp:include page="deleteForm.jsp"></jsp:include></td>
 		</tr>
 		
 		<tr id="footer" >
